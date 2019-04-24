@@ -1,0 +1,11 @@
+{
+  "name": "galvanize-telephone-1",
+  "version": "1.0.0",
+  "description": "FIS Telephone, version 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha -wG"
+  },
+  "author": "Kyle Coberly",
+  "license": "ISC"
+}
