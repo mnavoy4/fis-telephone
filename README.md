@@ -14,6 +14,3 @@ Once you have the data, add the following elements to the `index.html` page. Ple
   * A `span` tag that displays the character's name and phone number
   * A `p` tag that displays the character's Message
   * An `a` tag that says 'Leave `${character.name}` a message' and when clicked takes the user to the `contact.html` page. Add a query string that has a `character` key set to the character's name.
-* When finished, your home page should look like this:
-
-![Home Page](assets/home-page.png)
